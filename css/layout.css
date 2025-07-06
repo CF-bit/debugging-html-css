@@ -1,4 +1,4 @@
-* {git p
+* {
   margin: 0;
   padding: 0;
 }
@@ -23,16 +23,6 @@ aside {
   width: 20vw;
   height: auto;
   float: right;
-
-  /*
-  dt {
-    font-weight: bold;
-  }
-
-  dd {
-    padding: 0 10px;
-  }
-  */
 }
 
 /* Moved nested selectors out */
