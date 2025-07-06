@@ -1,32 +1,60 @@
-# Debugging Assignment
+1. **I fixed broken or missing HTML tags**
 
-## What This Is
-
-This repo has the files for the debugging assignment in our Web Design Tools class. The goal was to find and fix errors in the HTML and CSS to meet standards and improve accessibility.
+I made sure all tags were properly closed and none were missing, so browsers could correctly understand the page structure.
 
 ---
 
-## What I Fixed
+2. **I corrected incorrect CSS selectors and typos**
 
-1. **Duplicate @import in HTML**  
-   - Commented out the repeated Google Fonts import.
-
-2. **CSS nesting inside `aside`**  
-   - Moved `dt` and `dd` selectors out because CSS doesn’t support nesting.
-
-3. **Multiple `@media (max-width: 600px)` blocks**  
-   - Merged them into one to fix syntax errors.
+I fixed misspelled CSS class names so styles applied to the right elements.
 
 ---
 
-## How I Checked
+3. **I fixed wrong file paths for images and CSS**
 
-- Ran HTML and CSS through W3C validators.
-- Used WAVE Accessibility Checker.
-- Tested in browser with Developer Tools.
+I updated the file paths to make sure the browser could find and load all images and stylesheets.
 
 ---
 
-## Live Link
+4. **I added the correct DOCTYPE declaration**
 
+I included `<!DOCTYPE html>` at the top of the HTML so browsers would render the page in standards mode.
+
+---
+
+5. **I fixed invalid HTML nesting**
+
+I rearranged HTML tags so they were nested properly and followed HTML rules, preventing rendering problems.
+
+---
+
+6. **I corrected CSS syntax errors**
+
+I added missing semicolons, braces, and removed extra commas so the CSS worked without errors.
+
+---
+
+7. **I resolved conflicting CSS properties**
+
+I cleaned up CSS rules that had duplicates or conflicts to make the styling consistent.
+
+---
+
+8. **I replaced deprecated or invalid HTML attributes**
+
+I removed outdated attributes like `align="center"` and used CSS for styling instead.
+
+
+---
+
+### 9. **I improved accessibility**
+
+I added alt text to images and fixed form labels so the page is easier to use for everyone.
+
+[Live site link](https://cf-bit.github.io/debugging-html-css/)
+
+
+<<<<<<< HEAD
 - [Your GitHub Pages URL here]
+=======
+>>>>>>> 10d0105b74e75adae79912db2c48308e00adc74c
