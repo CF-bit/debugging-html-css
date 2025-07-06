@@ -31,7 +31,7 @@ footer {
   text-align: center;
   background-color: #092834;
   /* color: #B2; */ /* invalid */
-  color: #B2D732;
+  color: #e5e567;
   clear: both;
 }
 
@@ -51,16 +51,13 @@ h1 {
 }
 
 h2,
+h3,
 h4,
 h5 {
   color: #C04402;
   font-family: 'Architects Daughter', cursive;
   margin-top: 1em;
-}
-
-h3 {
-  color: #2E6C85;
-  margin-top: 1em;
+  font-size: 2em;
 }
 
 p {
