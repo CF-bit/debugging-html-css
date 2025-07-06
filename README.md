@@ -52,4 +52,7 @@ I removed outdated attributes like `align="center"` and used CSS for styling ins
 I added alt text to images and fixed form labels so the page is easier to use for everyone.
 
 [Live site link](https://cf-bit.github.io/debugging-html-css/)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9d04be4743eacbc40f3904ee4075d95a0e2da81a
