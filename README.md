@@ -29,4 +29,4 @@ This repo has the files for the debugging assignment in our Web Design Tools cla
 
 ## Live Link
 
-- [https://cf-bit.github.io/debugging-html-css/]
+- [Your GitHub Pages URL here]
